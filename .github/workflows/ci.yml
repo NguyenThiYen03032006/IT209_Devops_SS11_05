@@ -50,4 +50,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/it211-ss18-04:latest
+          tags: ghcr.io/nguyenthiyen03032006/it211-ss18-04:latest
